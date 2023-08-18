@@ -1,16 +1,23 @@
-### Hi there 👋
+## Olá, eu sou o Henrique Martins Rocha de Souza!
 
-<!--
-**Henrique-MRS/Henrique-MRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻Trabalho atualmente com desenvolvimento de sistemas SCADA (Supervisory Control and Data Acquisition)
+- 👨‍🎓Sou formado em Redes de Computadores
+- 🖥Estou cursando Engenharia da Computação
+- 📖Estudando Java
+- 🐧Usuário linux
+  
+###
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-MRS&show_icons=true&theme=dark)](https://github.com/Henrique-MRS/Henrique-MRS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Henrique-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Henrique-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+</div>
+
+##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/henrique-rocha-94199418a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:henrique_mrs@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+</div>
