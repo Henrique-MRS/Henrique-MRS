@@ -3,7 +3,7 @@
 - 💻Trabalho atualmente com desenvolvimento de sistemas SCADA (Supervisory Control and Data Acquisition)
 - 👨‍🎓Sou formado em Redes de Computadores
 - 🖥Estou cursando Engenharia da Computação
-- 📖Estudando Java
+- 📖Estudando Java e C
 - 🐧Usuário linux
   
 ###
@@ -13,6 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Henrique-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Henrique-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 
 ##
